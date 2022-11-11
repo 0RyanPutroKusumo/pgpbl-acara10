@@ -38,8 +38,6 @@
     </style>
   </head>
 
-  <script src="datajs/dataarea.js"></script>
-
   <body>
     <!-- JS Leaflet -->
     <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
@@ -235,19 +233,6 @@
         .bindPopup(
           "<h2>Kampung Batik Kauman (ꦏꦩ꧀ꦥꦸꦁꦧꦠꦶꦏ꧀ꦏꦻꦴꦩꦤ꧀)</h2> <p>Kampung Batik Kauman merupakan kawasan yang terkenal akan batik yang dihasilkan. Pengunjung dapat melihat proses mulai dari batik awal hingga akhir pembuatan batik. Pengunjung juga dapat belajar membuat batik, membuat batiknya sendiri, dan membawa hasil dari batik tersebut. Tidak hanya melihat proses dan membuat batik, pengunjung juga dapat berbelanja pada lokasi ini.</p> <p>Fasilitas: Tempat untuk mengenal dan berbelanja batik</p> <p>Fasilitas lain: Parkir, mushola, dan toilet</p> <p>Jam Operasional: Senin-Jumat (09.00-18.00) sedangkan Sabtu-Minggu (08.00-18.00)</p> <p>HTM: Gratis</p>"
         );
-
-      //Visualisasi data area beserta pop-up
-      var geojson = L.geoJson(dataarea, {
-        onEachFeature: function (feature, layer) {
-          var popupText = "Kecamatan: " + feature.properties.WADMKC;
-
-          if (feature.properties.NAMOBJ) {
-            popupText += "<br/>Kelurahan: " + feature.properties.NAMOBJ;
-          }
-          layer.bindPopup(popupText);
-        },
-      });
-      markersLayer.addLayer(geojson);
     </script>
   </body>
 </html>
