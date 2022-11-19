@@ -1,0 +1,1007 @@
+{
+  "type": "FeatureCollection",
+  "name": "sekolahhhhh",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "kecamatan": "Berbah",
+        "desa": "Jogotirto",
+        "dusun": "Karongan",
+        "POINT_X": 441923.1678,
+        "POINT_Y": 9136190.6566000003,
+        "Toponim": "SMPN 3 Berbah",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": null,
+        "Jenis_Utam": null,
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2017",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.473225886608176, -7.814340914858313] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "kecamatan": "Berbah",
+        "desa": "Kalitirto",
+        "dusun": "Teguhan",
+        "POINT_X": 440143.2048,
+        "POINT_Y": 9138812.4071999993,
+        "Toponim": "SMK Nasional",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2014",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.457112170612078, -7.790606141072774] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "kecamatan": "Berbah",
+        "desa": "Kalitirto",
+        "dusun": "Teguhan",
+        "POINT_X": 440401.1051,
+        "POINT_Y": 9138866.6717000008,
+        "Toponim": "SMP N Berbah 1",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.459451827127324, -7.790118295505348] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "kecamatan": "Berbah",
+        "desa": "Tegaltirto",
+        "dusun": "Sanggrahan",
+        "POINT_X": 438752.033,
+        "POINT_Y": 9137183.0793999992,
+        "Toponim": "SMPN 2 Berbah",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.444475511899796, -7.805327408290861] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "kecamatan": "Cangkringan",
+        "desa": "Wukirsari",
+        "dusun": "Kiyaran",
+        "POINT_X": 437925.1744,
+        "POINT_Y": 9153387.6204000004,
+        "Toponim": "SDN Kiyaran 2",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.437170323839297, -7.658743696000188] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 6,
+        "kecamatan": "Cangkringan",
+        "desa": "Wukirsari",
+        "dusun": "Watuwadeg",
+        "POINT_X": 438641.8209,
+        "POINT_Y": 9154414.0048999991,
+        "Toponim": "SMPN 1 Cangkringan",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.443679950521357, -7.649468205771672] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 7,
+        "kecamatan": "Cangkringan",
+        "desa": "Wukirsari",
+        "dusun": "Cancangan",
+        "POINT_X": 437521.3085,
+        "POINT_Y": 9155460.7590999994,
+        "Toponim": "SDN Cancangan",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.433533348898294, -7.639986821199945] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 8,
+        "kecamatan": "Cangkringan",
+        "desa": "Wukirsari",
+        "dusun": "Sintokan",
+        "POINT_X": 438264.7982,
+        "POINT_Y": 9152931.2921999991,
+        "Toponim": "SMKN Cangkringan",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.440244188518633, -7.662875316266402] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 9,
+        "kecamatan": "Cangkringan",
+        "desa": "Wukirsari",
+        "dusun": "Kiyaran",
+        "POINT_X": 438288.3881,
+        "POINT_Y": 9153457.511,
+        "Toponim": "SDN Kiyaran 1",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.440464283439752, -7.658115805574019] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 10,
+        "kecamatan": "Cangkringan",
+        "desa": "Wukirsari",
+        "dusun": "Bedoyo",
+        "POINT_X": 437512.5005,
+        "POINT_Y": 9154378.1871000007,
+        "Toponim": "SMAN 1 Cangkringan",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.433440581703806, -7.649778862560209] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11,
+        "kecamatan": "Cangkringan",
+        "desa": "Wukirsari",
+        "dusun": "Duwet",
+        "POINT_X": 440000.8583,
+        "POINT_Y": 9154802.1755,
+        "Toponim": "SDN Gungan",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.456006083585095, -7.645972801141749] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12,
+        "kecamatan": "Cangkringan",
+        "desa": "Umbulharjo",
+        "dusun": "Karanggeneng",
+        "POINT_X": 437736.775,
+        "POINT_Y": 9157110.6912999991,
+        "Toponim": "SMP Taman Dewasa",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.435506398627581, -7.625065297711192] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 13,
+        "kecamatan": "Cangkringan",
+        "desa": "Umbulharjo",
+        "dusun": "Gondang",
+        "POINT_X": 437520.213,
+        "POINT_Y": 9157978.0432999991,
+        "Toponim": "SDN Umbulharjo II",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBD Provinsi"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.433553370440904, -7.617217298563905] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 14,
+        "kecamatan": "Cangkringan",
+        "desa": "Umbulharjo",
+        "dusun": "Plosorejo",
+        "POINT_X": 437823.3566,
+        "POINT_Y": 9157106.0579000004,
+        "Toponim": "SDN Umbulharjo",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.436291287758181, -7.625108231219499] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 15,
+        "kecamatan": "Cangkringan",
+        "desa": "Kepuharjo",
+        "dusun": "Pagerjurang",
+        "POINT_X": 439813.7964,
+        "POINT_Y": 9157026.5154999997,
+        "Toponim": "SMPN 2 Cangkringan",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2014",
+        "Sumber_Dan": "APBD Provinsi"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.454335624260594, -7.625850844878961] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 16,
+        "kecamatan": "Cangkringan",
+        "desa": "Kepuharjo",
+        "dusun": "Batur",
+        "POINT_X": 439828.494,
+        "POINT_Y": 9157610.9827999994,
+        "Toponim": "SDN Kepuharjo",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.454475565432929, -7.620564329475563] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 17,
+        "kecamatan": "Cangkringan",
+        "desa": "Glagaharjo",
+        "dusun": "Jetissumur",
+        "POINT_X": 441284.4794,
+        "POINT_Y": 9157096.8853999991,
+        "Toponim": "SDN Glagaharjo",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.467669622255357, -7.625230933999166] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 18,
+        "kecamatan": "Cangkringan",
+        "desa": "Glagaharjo",
+        "dusun": "Banjarsari",
+        "POINT_X": 441316.0559,
+        "POINT_Y": 9154584.1118000001,
+        "Toponim": "SD Muhammadiyah Cepitsari",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.467927780854495, -7.647960119365623] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 19,
+        "kecamatan": "Cangkringan",
+        "desa": "Glagaharjo",
+        "dusun": "Singlar",
+        "POINT_X": 441216.548,
+        "POINT_Y": 9158250.0258000009,
+        "Toponim": "SDN Srunen",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBD Provinsi"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.467066651216001, -7.614799649266403] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 20,
+        "kecamatan": "Cangkringan",
+        "desa": "Argomulyo",
+        "dusun": "Gayam",
+        "POINT_X": 441545.8892,
+        "POINT_Y": 9153300.6250999998,
+        "Toponim": "SD N Bronggang",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.469997222243222, -7.659572222254059] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 21,
+        "kecamatan": "Cangkringan",
+        "desa": "Argomulyo",
+        "dusun": "Jetis",
+        "POINT_X": 440827.383,
+        "POINT_Y": 9152617.98,
+        "Toponim": "SMK Muhamadiyah Cangkringan",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2014",
+        "Sumber_Dan": "APBD Provinsi"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.463474999963367, -7.665738889000748] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 22,
+        "kecamatan": "Cangkringan",
+        "desa": "Argomulyo",
+        "dusun": "Jetis",
+        "POINT_X": 440726.6243,
+        "POINT_Y": 9152589.2940999996,
+        "Toponim": "SMA Sunan Kalijaga",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2017",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.462561111082906, -7.665997222037862] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 23,
+        "kecamatan": "Cangkringan",
+        "desa": "Argomulyo",
+        "dusun": "Bronggang",
+        "POINT_X": 439950.6011,
+        "POINT_Y": 9153333.9579000007,
+        "Toponim": "SDN Bronggang Baru",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2017",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.455533585462675, -7.659252682975126] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 24,
+        "kecamatan": "Godean",
+        "desa": "Sidoagung",
+        "dusun": "Kramen",
+        "POINT_X": 422425.2083,
+        "POINT_Y": 9142136.1386999991,
+        "Toponim": "SMKN 1 Godean",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.296471290263284, -7.760306800342282] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 25,
+        "kecamatan": "Kalasan",
+        "desa": "Tamanmartani",
+        "dusun": "Bendosari",
+        "POINT_X": 442068.8185,
+        "POINT_Y": 9144441.7654,
+        "Toponim": "SMP Negeri 4 Kalasan",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.474639802870001, -7.739709074282437] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 26,
+        "kecamatan": "Kalasan",
+        "desa": "Tirtomartani",
+        "dusun": "Glondong",
+        "POINT_X": 441702.6297,
+        "POINT_Y": 9141457.2142999992,
+        "Toponim": "SMPN I Kalasan",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.471285350553188, -7.766701049677525] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 27,
+        "kecamatan": "Ngaglik",
+        "desa": "Donoharjo",
+        "dusun": "Kayunan",
+        "POINT_X": 432540.1795,
+        "POINT_Y": 9150234.8877000008,
+        "Toponim": "SMA N 1 Ngaglik",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.388305891811385, -7.687194180640802] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 28,
+        "kecamatan": "Ngaglik",
+        "desa": "Sinduharjo",
+        "dusun": "Gadingan",
+        "POINT_X": 434626.3948,
+        "POINT_Y": 9146993.304,
+        "Toponim": "SMPN 2 Ngaglik",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2017",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.407181256326567, -7.716541468928999] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 29,
+        "kecamatan": "Ngaglik",
+        "desa": "Sukoharjo",
+        "dusun": "Sembung",
+        "POINT_X": 436089.6758,
+        "POINT_Y": 9148549.1253999993,
+        "Toponim": "SDN Selomulyo",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2017",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.420469207022691, -7.702486915671936] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 30,
+        "kecamatan": "Ngaglik",
+        "desa": "Sukoharjo",
+        "dusun": "Karanglo",
+        "POINT_X": 437693.5174,
+        "POINT_Y": 9148242.5155999996,
+        "Toponim": "SMAN 2 Ngaglik",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.435008476809415, -7.705279695187309] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 31,
+        "kecamatan": "Ngemplak",
+        "desa": "Bimomartani",
+        "dusun": "Randupogog",
+        "POINT_X": 440098.3008,
+        "POINT_Y": 9149116.2766999993,
+        "Toponim": "SDN Randusari",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.456824294621327, -7.697404492281253] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 32,
+        "kecamatan": "Ngemplak",
+        "desa": "Bimomartani",
+        "dusun": "Banjarharjo",
+        "POINT_X": 440260.1026,
+        "POINT_Y": 9150763.4400999993,
+        "Toponim": "SMP Muh Ngemplak",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.458310329319062, -7.682507293875987] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 33,
+        "kecamatan": "Ngemplak",
+        "desa": "Bimomartani",
+        "dusun": "Cokrogaten",
+        "POINT_X": 440501.4868,
+        "POINT_Y": 9148827.4353,
+        "Toponim": "SMAN 1 ngemplak",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.460476883378604, -7.700021758925948] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 34,
+        "kecamatan": "Ngemplak",
+        "desa": "Sindumartani",
+        "dusun": "Sorobayan",
+        "POINT_X": 442234.3971,
+        "POINT_Y": 9149835.7075999994,
+        "Toponim": "SDN Kejambon I",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBD Provinsi"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.476201377539098, -7.690921118235497] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 35,
+        "kecamatan": "Ngemplak",
+        "desa": "Sindumartani",
+        "dusun": "Joholanang",
+        "POINT_X": 442741.0268,
+        "POINT_Y": 9149528.693,
+        "Toponim": "SDN Kejambon II",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.480791815276902, -7.693703743409011] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 36,
+        "kecamatan": "Ngemplak",
+        "desa": "Umbulmartani",
+        "dusun": "Grogolan",
+        "POINT_X": 437924.2648,
+        "POINT_Y": 9150578.8716000002,
+        "Toponim": "SDN Umbulwidodo",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.437128679070398, -7.68414953571084] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 37,
+        "kecamatan": "Pakem",
+        "desa": "Hargobinangun",
+        "dusun": "Tanen",
+        "POINT_X": 435785.3073,
+        "POINT_Y": 9156464.5928000007,
+        "Toponim": "SDN Pandanpuro II",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.417806629225524, -7.630885977445673] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 38,
+        "kecamatan": "Pakem",
+        "desa": "Pakembinangun",
+        "dusun": "Labasan",
+        "POINT_X": 435395.1649,
+        "POINT_Y": 9152915.8405000009,
+        "Toponim": "SMK Muh pakem",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.414225813108288, -7.662980479394867] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 39,
+        "kecamatan": "Pakem",
+        "desa": "Pakembinangun",
+        "dusun": "Tegalsari",
+        "POINT_X": 436283.128,
+        "POINT_Y": 9153399.3508000001,
+        "Toponim": "SMAN 1 Pakem",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.422282615405393, -7.658617889241428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 40,
+        "kecamatan": "Pakem",
+        "desa": "Pakembinangun",
+        "dusun": "Duwetsari",
+        "POINT_X": 436301.9922,
+        "POINT_Y": 9153257.586,
+        "Toponim": "SD Muh Pakem",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.422451923247706, -7.659900414770309] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 41,
+        "kecamatan": "Prambanan",
+        "desa": "Bokoharjo",
+        "dusun": "Gatak",
+        "POINT_X": 443764.1902,
+        "POINT_Y": 9141963.2977000009,
+        "Toponim": "SMA Muh Prambanan",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2017",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.489987205705404, -7.762146219741742] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 42,
+        "kecamatan": "Prambanan",
+        "desa": "Bokoharjo",
+        "dusun": "Ngoro oro",
+        "POINT_X": 443809.2009,
+        "POINT_Y": 9141569.8171999995,
+        "Toponim": "SMK Muh Pambanan",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survey Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.490391117100941, -7.76570585648502] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 43,
+        "kecamatan": "Sleman",
+        "desa": "Caturharjo",
+        "dusun": "Jetis",
+        "POINT_X": 427123.9002,
+        "POINT_Y": 9150684.2783000004,
+        "Toponim": "SMAN 1 Sleman",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2018",
+        "Sumber_Dan": "APBD Kabupaten Sleman"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.339202036195019, -7.683056630820881] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 44,
+        "kecamatan": "Sleman",
+        "desa": "Triharjo",
+        "dusun": "Panasan",
+        "POINT_X": 428530.4825,
+        "POINT_Y": 9150815.6054999996,
+        "Toponim": "SMK Muh 1 Sleman",
+        "Objek": "SMA/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Gempa",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.351957341929605, -7.681888190758571] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 45,
+        "kecamatan": "Tempel",
+        "desa": "Lumbungrejo",
+        "dusun": "Tempel",
+        "POINT_X": 425766.0293,
+        "POINT_Y": 9154160.2849000003,
+        "Toponim": "SDN Klegung II",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Banjir",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.326939628946249, -7.651596798814928] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 46,
+        "kecamatan": "Turi",
+        "desa": "Donokerto",
+        "dusun": "Turi",
+        "POINT_X": 431368.3124,
+        "POINT_Y": 9154280.9711000007,
+        "Toponim": "SMPN 1 Turi",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.377733546058749, -7.650581444126371] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 47,
+        "kecamatan": "Turi",
+        "desa": "Donokerto",
+        "dusun": "Turi",
+        "POINT_X": 431314.1147,
+        "POINT_Y": 9154465.3118999992,
+        "Toponim": "SMPK St Aloysius",
+        "Objek": "SMP/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.377244587045979, -7.648913341851695] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 48,
+        "kecamatan": "Turi",
+        "desa": "Donokerto",
+        "dusun": "Gadung Wetan",
+        "POINT_X": 429909.8567,
+        "POINT_Y": 9153357.9803999998,
+        "Toponim": "SDN Turi 3",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.36449827635164, -7.658910748367565] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 49,
+        "kecamatan": "Turi",
+        "desa": "Girikerto",
+        "dusun": "Kloposawit",
+        "POINT_X": 433748.2971,
+        "POINT_Y": 9158135.1183000002,
+        "Toponim": "SDN Kloposawit",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2015",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.399360111232482, -7.615750459197808] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 50,
+        "kecamatan": "Turi",
+        "desa": "Wonokerto",
+        "dusun": "Ngembesan",
+        "POINT_X": 432276.4968,
+        "POINT_Y": 9158571.1874000002,
+        "Toponim": "SD Tarakanita",
+        "Objek": "SD/Setingkat",
+        "Jenis": "Pendidikan",
+        "Sumber": "Updating Data DPTR Sleman dan Survei Lapangan Tahun 2018",
+        "Jenis_Utam": "Fasilitas Umum dan Sosial",
+        "Ancaman_Be": "Erupsi Merapi",
+        "Tahun": "2016",
+        "Sumber_Dan": "APBN BNPB"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.386022856804502, -7.611787426879872] }
+    }
+  ]
+}
