@@ -223,18 +223,6 @@
         "<h2>Kampung Batik Kauman (ꦏꦩ꧀ꦥꦸꦁꦧꦠꦶꦏ꧀ꦏꦻꦴꦩꦤ꧀)</h2> <p>Kampung Batik Kauman merupakan kawasan yang terkenal akan batik yang dihasilkan. Pengunjung dapat melihat proses mulai dari batik awal hingga akhir pembuatan batik. Pengunjung juga dapat belajar membuat batik, membuat batiknya sendiri, dan membawa hasil dari batik tersebut. Tidak hanya melihat proses dan membuat batik, pengunjung juga dapat berbelanja pada lokasi ini.</p> <p>Fasilitas: Tempat untuk mengenal dan berbelanja batik</p> <p>Fasilitas lain: Parkir, mushola, dan toilet</p> <p>Jam Operasional: Senin-Jumat (09.00-18.00) sedangkan Sabtu-Minggu (08.00-18.00)</p> <p>HTM: Gratis</p> <img src='foto/Kampung_Batik_Kauman.png'/>"
       );
 
-    //Judul dan Subjudul
-    var title = new L.Control();
-    title.onAdd = function (map) {
-      this._div = L.DomUtil.create("div", "info");
-      this.update();
-      return this._div;
-    };
-    title.update = function () {
-      this._div.innerHTML = "<h1>LOkasi WISata KOta Surakarta</h1> <h2>RESPONSI PEMROGRAMAN SPASIAL : WEB</h2>";
-    };
-    title.addTo(map);
-
     //Plugin Search
     var markersLayer = new L.LayerGroup();
     map.addLayer(markersLayer);
