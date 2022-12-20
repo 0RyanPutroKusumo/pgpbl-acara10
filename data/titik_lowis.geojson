@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "titik_lowis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Kampung Batik Laweyan" }, "geometry": { "type": "Point", "coordinates": [ 110.797659577792132, -7.570570625253297 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Loji Gandrung" }, "geometry": { "type": "Point", "coordinates": [ 110.809502678699488, -7.567035507626148 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Sriwedari" }, "geometry": { "type": "Point", "coordinates": [ 110.812992158264564, -7.568564311322396 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Tumurun Private Museum" }, "geometry": { "type": "Point", "coordinates": [ 110.816494724865294, -7.57058447371636 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Pasar Triwindu" }, "geometry": { "type": "Point", "coordinates": [ 110.822538317873992, -7.569176784585338 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Pasar Malam Ngarsopuro" }, "geometry": { "type": "Point", "coordinates": [ 110.822299182042897, -7.568752050795794 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Keraton Mangkunegaran" }, "geometry": { "type": "Point", "coordinates": [ 110.822759607747528, -7.567117361084779 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Alun-alun Kidul Surakarta" }, "geometry": { "type": "Point", "coordinates": [ 110.826413270122046, -7.582186487634699 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Keraton Hadiningrat" }, "geometry": { "type": "Point", "coordinates": [ 110.82775766559034, -7.578034328179525 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Benteng Vastenburg" }, "geometry": { "type": "Point", "coordinates": [ 110.830720094542599, -7.57193101069957 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Pasar Klewer" }, "geometry": { "type": "Point", "coordinates": [ 110.826758291967892, -7.575393126463053 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Kampung Batik Kauman" }, "geometry": { "type": "Point", "coordinates": [ 110.825330615364408, -7.573055306024828 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Pasar Gede" }, "geometry": { "type": "Point", "coordinates": [ 110.831398240929275, -7.569271963025558 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Taman Satwa Taru Jurug Surakarta" }, "geometry": { "type": "Point", "coordinates": [ 110.860512730931447, -7.563016360041232 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lowis": "Taman Balekambang" }, "geometry": { "type": "Point", "coordinates": [ 110.807959955155951, -7.553074971958665 ] } }
+]
+}

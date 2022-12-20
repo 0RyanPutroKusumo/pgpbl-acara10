@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LeafletJS GeoJSON Line</title>
+    <link href="https://unsorry.net/assets-date/images/favicon.png" rel="shortcut icon" type="image/png" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css" />
+    <style>
+      html,
+      body,
+      #map {
+        height: 100%;
+        width: 100%;
+        margin: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js"></script>
+    <div id="map"></div>
+    <script>
+      /* Initial Map */
+      var map = L.map("map").setView([-7.568343883486947, 110.8169306697571], 13);
+
+      /* Tile Basemap */
+      var basemap = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: '<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a href="https://www.unsorry.net" target="_blank">unsorry@2022</a>',
+      });
+      basemap.addTo(map);
+
+      /* GeoJSON Polygon */
+      var line = L.geoJson(null, {
+        /* Style polygon */
+        style: function (feature) {
+          if (feature.properties.REMARK === "Jalan Arteri") {
+            return {
+              opacity: 1,
+              color: "red",
+              weight: 3.5,
+            };
+          }
+          if (feature.properties.REMARK === "Jalan Kolektor") {
+            return {
+              opacity: 1,
+              color: "red",
+              weight: 2,
+            };
+          }
+          if (feature.properties.REMARK === "Jalan Lokal") {
+            return {
+              opacity: 1,
+              color: "red",
+              weight: 1,
+            };
+          }
+          if (feature.properties.REMARK === "Jalan Lain") {
+            return {
+              opacity: 1,
+              color: "orange",
+              weight: 1,
+            };
+          }
+          if (feature.properties.REMARK === "Jalan Setapak") {
+            return {
+              opacity: 1,
+              color: "yellow",
+              weight: 1,
+            };
+          }
+        },
+
+        onEachFeature: function (feature, layer) {
+          var popupContent = "Jenis jalan: " + feature.properties.REMARK;
+          layer.on({
+            click: function (e) {
+              line.bindPopup(popupContent);
+            },
+            mouseover: function (e) {
+              line.bindTooltip(feature.properties.REMARK, {
+                sticky: true,
+              });
+            },
+          });
+        },
+      });
+
+      $.getJSON("data/JALAN_SOLO.geojson", function (data) {
+        line.addData(data);
+        map.addLayer(line);
+      });
+    </script>
+  </body>
+</html>
