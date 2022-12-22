@@ -32,74 +32,54 @@
       basemap.addTo(map);
 
       /* GeoJSON Polygon */
-      var polygon = L.geoJson(null, {
+      var line = L.geoJson(null, {
         /* Style polygon */
         style: function (feature) {
-          if (feature.properties.Ket === "Museum") {
+          if (feature.properties.REMARK === "Jalan Arteri") {
             return {
               opacity: 1,
-              color: "black",
-              weight: 1,
-              fillOpacity: 0.7,
-              fillColor: "#0011ff",
+              color: "red",
+              weight: 3.5,
             };
           }
-          if (feature.properties.Ket === "Pasar") {
+          if (feature.properties.REMARK === "Jalan Kolektor") {
             return {
               opacity: 1,
-              color: "black",
-              weight: 1,
-              fillOpacity: 0.7,
-              fillColor: "#ff0000",
+              color: "red",
+              weight: 2,
             };
           }
-          if (feature.properties.Ket === "Kebun Binatang") {
+          if (feature.properties.REMARK === "Jalan Lokal") {
             return {
               opacity: 1,
-              color: "black",
+              color: "red",
               weight: 1,
-              fillOpacity: 0.7,
-              fillColor: "#7fc97f",
             };
           }
-          if (feature.properties.Ket === "Taman") {
+          if (feature.properties.REMARK === "Jalan Lain") {
             return {
               opacity: 1,
-              color: "black",
+              color: "orange",
               weight: 1,
-              fillOpacity: 0.7,
-              fillColor: "#b7ff00",
             };
           }
-          if (feature.properties.Ket === "Sejarah") {
+          if (feature.properties.REMARK === "Jalan Setapak") {
             return {
               opacity: 1,
-              color: "black",
+              color: "yellow",
               weight: 1,
-              fillOpacity: 0.7,
-              fillColor: "#ff5100",
-            };
-          }
-          if (feature.properties.Ket === "Batik") {
-            return {
-              opacity: 1,
-              color: "black",
-              weight: 1,
-              fillOpacity: 0.7,
-              fillColor: "#00ff37",
             };
           }
         },
 
         onEachFeature: function (feature, layer) {
-          //   var popupContent = "Penutup Lahan: " + feature.properties.TTP_LHN + "<br>" + "Luas: " + feature.properties.Luas + " km2";
-          var popupContent = "Lokasi Wisata: " + feature.properties.Nama;
+          var popupContent = "Jenis jalan: " + feature.properties.REMARK;
           layer.on({
             click: function (e) {
-              polygon.bindPopup(popupContent);
+              line.bindPopup(popupContent);
             },
             mouseover: function (e) {
-              polygon.bindTooltip(feature.properties.Nama, {
+              line.bindTooltip(feature.properties.REMARK, {
                 sticky: true,
               });
             },
@@ -107,9 +87,9 @@
         },
       });
 
-      $.getJSON("data/area_wisata_solo.geojson", function (data) {
-        polygon.addData(data);
-        map.addLayer(polygon);
+      $.getJSON("data/JALAN_SOLO.geojson", function (data) {
+        line.addData(data);
+        map.addLayer(line);
       });
     </script>
   </body>

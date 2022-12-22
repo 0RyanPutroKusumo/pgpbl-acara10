@@ -1,0 +1,146 @@
+[
+  {
+    "no": 1,
+    "lokasi": "Keraton Mangkunegaran",
+    "jenis": "Sejarah",
+    "latitude": -7.567113,
+    "longitude": 110.822759,
+    "fontawesome5icon": "landmark"
+  },
+  {
+    "no": 2,
+    "lokasi": "Keraton Hadiningrat",
+    "jenis": "Sejarah",
+    "latitude": -7.578027,
+    "longitude": 110.827759,
+    "fontawesome5icon": "landmark"
+  },
+  {
+    "no": 3,
+    "lokasi": "Loji Gandrung",
+    "jenis": "Sejarah",
+    "latitude": -7.56704,
+    "longitude": 110.809504,
+    "fontawesome5icon": "landmark"
+  },
+  {
+    "no": 4,
+    "lokasi": "Benteng Vastenburg",
+    "jenis": "Sejarah",
+    "latitude": -7.571929,
+    "longitude": 110.830715,
+    "fontawesome5icon": "landmark"
+  },
+  {
+    "no": 5,
+    "lokasi": "Jurug Solo Zoo",
+    "jenis": "Kebun Binatang",
+    "latitude": -7.563025,
+    "longitude": 110.860506,
+    "fontawesome5icon": "paw"
+  },
+  {
+    "no": 6,
+    "lokasi": "Museum Radya Pustaka",
+    "jenis": "Museum",
+    "latitude": -7.56875576,
+    "longitude": 110.814392,
+    "fontawesome5icon": "gopuram"
+  },
+  {
+    "no": 7,
+    "lokasi": "Museum Keris Nusantara",
+    "jenis": "Museum",
+    "latitude": -7.569052471,
+    "longitude": 110.8107971,
+    "fontawesome5icon": "gopuram"
+  },
+  {
+    "no": 8,
+    "lokasi": "Museum Lokananta",
+    "jenis": "Museum",
+    "latitude": -7.557774289,
+    "longitude": 110.7955501,
+    "fontawesome5icon": "gopuram"
+  },
+  {
+    "no": 9,
+    "lokasi": "Tumurun Private Museum",
+    "jenis": "Museum",
+    "latitude": -7.570585,
+    "longitude": 110.816495,
+    "fontawesome5icon": "gopuram"
+  },
+  {
+    "no": 10,
+    "lokasi": "Pasar Klewer",
+    "jenis": "Pasar",
+    "latitude": -7.575377,
+    "longitude": 110.826745,
+    "fontawesome5icon": "store"
+  },
+  {
+    "no": 11,
+    "lokasi": "Pasar Triwindu",
+    "jenis": "Pasar",
+    "latitude": -7.569177,
+    "longitude": 110.822538,
+    "fontawesome5icon": "gopuram"
+  },
+  {
+    "no": 12,
+    "lokasi": "Pasar Gede",
+    "jenis": "Pasar",
+    "latitude": -7.569301,
+    "longitude": 110.831402,
+    "fontawesome5icon": "gopuram"
+  },
+  {
+    "no": 13,
+    "lokasi": "Pasar Malam Ngarsopuro",
+    "jenis": "Pasar",
+    "latitude": -7.56875,
+    "longitude": 110.822299,
+    "fontawesome5icon": "gopuram"
+  },
+  {
+    "no": 14,
+    "lokasi": "Taman Balekambang",
+    "jenis": "Taman",
+    "latitude": -7.553064,
+    "longitude": 110.807968,
+    "fontawesome5icon": "tree"
+  },
+  {
+    "no": 15,
+    "lokasi": "Taman Sriwedari",
+    "jenis": "Taman",
+    "latitude": -7.568566,
+    "longitude": 110.81299,
+    "fontawesome5icon": "tree"
+  },
+  {
+    "no": 16,
+    "lokasi": "Alun-alun Kidul Surakarta",
+    "jenis": "Taman",
+    "latitude": -7.582195,
+    "longitude": 110.826419,
+    "fontawesome5icon": "tree"
+  },
+  {
+    "no": 17,
+    "lokasi": "Kampung Batik Laweyan",
+    "jenis": "Budaya",
+    "latitude": -7.570569,
+    "longitude": 110.79766,
+    "fontawesome5icon": "spa"
+  },
+  {
+    "no": 18,
+    "lokasi": "Kampung Batik Kauman",
+    "jenis": "Budaya",
+    "latitude": -7.573038,
+    "longitude": 110.825317,
+    "fontawesome5icon": "spa"
+  }
+]
